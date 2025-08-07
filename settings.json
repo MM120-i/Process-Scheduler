@@ -1,0 +1,21 @@
+{
+  "amiga-assembly.binDir": "c:\\Users\\mahim\\AppData\\Roaming\\Code\\User\\globalStorage\\prb28.amiga-assembly\\downloads\\vscode-amiga-assembly-binaries-@-1.6.0\\prb28-vscode-amiga-assembly-binaries-1480d09",
+  "verilog.runInTerminal": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "Shades of Purple (Super Dark)",
+  "redhat.telemetry.enabled": true,
+  "C_Cpp.default.compilerPath": "c:\\Users\\mahim\\OneDrive\\Desktop\\Courses\\EECS\\EECS 2031\\Lab1\\hello.c",
+  "workbench.editorAssociations": {
+    "*.jar": "default",
+    "*.dat": "default",
+    "*.txt": "default"
+  },
+  "code-runner.runInTerminal": true,
+  "editor.formatOnSave": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": null,
+  "explorer.confirmDragAndDrop": false
+}
